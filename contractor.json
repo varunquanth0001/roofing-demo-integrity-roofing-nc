@@ -1,0 +1,486 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Integrity Roofing.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Integrity Roofing | Roofing in Hickory, NC",
+    "description": "Integrity Roofing: residential roofing, storm damage and commercial roofing for homes and businesses in Hickory, Charlotte and Henderson County. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Integrity Roofing",
+    "shortName": "Integrity Roofing",
+    "wordmark": "Integrity Roofing",
+    "phone": "(828) 448-0855",
+    "phoneE164": "+18284480855",
+    "email": "office@integrityroofingnc.com",
+    "address": null,
+    "hours": "Mon to Fri · 9:00 to 5:00",
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Residential",
+        "title": "Residential roofing",
+        "meta": "Replacements, repairs, new builds"
+      },
+      {
+        "img": "ba-storm-before",
+        "badge": "Storm",
+        "title": "Storm damage",
+        "meta": "Storm, hail and wind"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "Retail, offices, hotels"
+      },
+      {
+        "img": "service-roof-replacement",
+        "badge": "Inspection",
+        "title": "Free inspection",
+        "meta": "Same-week scheduling"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing · Hickory, Charlotte & Western NC",
+    "title": "Roofing built<br /><mark class=\"hl\">on integrity.</mark>",
+    "lead": "Family-owned residential and commercial roofing for Hickory, Charlotte and Western North Carolina, with free inspections and same-week scheduling.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": "Est. 2017",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Residential",
+      "em": "Free est.",
+      "type": null,
+      "town": "Hickory, NC",
+      "title": "Residential roofing",
+      "img": "service-roof-replacement",
+      "line": "Replacements, repairs and new builds with manufacturer and workmanship warranties.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Storm",
+      "em": null,
+      "type": null,
+      "town": "Hickory, NC",
+      "title": "Storm damage",
+      "img": "ba-storm-before",
+      "line": "Storm, hail and wind damage repair.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Hickory, NC",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Retail, multifamily, office and hotel roofs, from small repairs to full re-roofs.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Inspection",
+      "em": null,
+      "type": null,
+      "town": "Hickory, NC",
+      "title": "Free inspection",
+      "img": "service-roof-replacement",
+      "line": "A free inspection with same-week scheduling.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Integrity Roofing",
+    "title": "Hickory,<br /><mark>since 2017.</mark>",
+    "body": "CertainTeed SELECT ShingleMaster, licensed, insured and BBB accredited, with 500+ five-star reviews.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "value": "2017",
+        "label": "established"
+      },
+      {
+        "count": 4,
+        "label": "roofing services"
+      },
+      {
+        "count": 4,
+        "label": "service areas"
+      }
+    ],
+    "tickerLabel": "Why Integrity Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Family-owned, in Hickory since 2017",
+        ""
+      ],
+      [
+        "CertainTeed SELECT ShingleMaster",
+        ""
+      ],
+      [
+        "Licensed and insured",
+        ""
+      ],
+      [
+        "BBB accredited",
+        ""
+      ],
+      [
+        "500+ five-star reviews",
+        ""
+      ],
+      [
+        "Free inspection, same-week scheduling",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Homes and<br /><mark>businesses.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Residential",
+        "img": "service-roof-replacement",
+        "title": "Residential roofing",
+        "sub": "Replacements, repairs, new builds",
+        "line": "Replacements, repairs and new builds with manufacturer and workmanship warranties.",
+        "specs": "CertainTeed",
+        "pin": [
+          "Hickory",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Storm",
+        "img": "ba-storm-before",
+        "title": "Storm damage",
+        "sub": "Storm, hail and wind",
+        "line": null,
+        "specs": "Storm",
+        "pin": [
+          "Hickory",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "Retail, offices, hotels",
+        "line": null,
+        "specs": "Commercial",
+        "pin": [
+          "Hickory",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Inspection",
+        "img": "service-roof-replacement",
+        "title": "Free inspection",
+        "sub": "Same-week scheduling",
+        "line": null,
+        "specs": "Free",
+        "pin": [
+          "Hickory",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Western<br /><mark>North Carolina.</mark>",
+    "body": "Based in Hickory, serving Charlotte and Western NC. Pick an area to see it on the map.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Hickory",
+        "c": "NC",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Hickory."
+      },
+      {
+        "n": "Charlotte",
+        "c": "NC",
+        "x": 14,
+        "y": 26,
+        "img": "ba-storm-before",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Charlotte."
+      },
+      {
+        "n": "Henderson County",
+        "c": "NC",
+        "x": 44,
+        "y": 22,
+        "img": "service-siding",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Henderson County."
+      },
+      {
+        "n": "Transylvania County",
+        "c": "NC",
+        "x": 12,
+        "y": 64,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Transylvania County."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (828) 448-0855 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "Review",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "Open Mon to Fri, 9:00 to 5:00.",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Residential roofing, storm damage, commercial roofing and free inspection."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Hickory, Charlotte, Henderson County and Transylvania County, NC."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (828) 448-0855 and email office@integrityroofingnc.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Book your free<br /><mark>inspection.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (828) 448-0855.",
+    "under": "Est. 2017",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Contact",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
